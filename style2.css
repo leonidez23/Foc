@@ -1,0 +1,15 @@
+*{
+	background-color: lightblue;
+}
+
+.myDIV button
+{
+	background-color: lightgreen;
+	padding: 1px;
+    color: darkblue;
+}
+
+button{
+	background-color: green;
+color:white;	
+}
